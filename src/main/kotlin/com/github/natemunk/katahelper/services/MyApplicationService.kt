@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.natemunk.katahelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.natemunk.katahelper.MyBundle
 
 class MyApplicationService {
 
